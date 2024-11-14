@@ -1,6 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2TUSN3)
-
-🇵🇸
 # Stremio Jackett Addon
 
 Elevate your Stremio experience with seamless access to Jackett torrent links, effortlessly fetching torrents for your
